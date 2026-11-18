@@ -5,7 +5,7 @@ import {
   readAccess,
   record,
   str,
-} from "@aifivem/lib/shared";
+} from "@aicore8/lib/shared";
 
 /** ai-doorlock's contracts and panel content. No natives. */
 

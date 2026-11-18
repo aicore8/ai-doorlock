@@ -1,4 +1,4 @@
-import { waitFor } from "@aifivem/lib/shared";
+import { waitFor } from "@aicore8/lib/shared";
 import type { DoorType, Leaf } from "common/doors";
 
 /** Close speed the game uses when a script set none. */

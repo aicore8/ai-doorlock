@@ -1,4 +1,4 @@
-import type { PromptAnchor } from "@aifivem/shared";
+import type { PromptAnchor } from "@aicore8/shared";
 import type { Door, Leaf } from "common/doors";
 import { modelHash } from "./doorSystem";
 
