@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/aicore8/ai-doorlock/compare/v0.1.5...v0.1.6) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([b4fa8e6](https://github.com/aicore8/ai-doorlock/commit/b4fa8e66b5def3af3b92fd6c023a3141d06f6a32))
+
 ## [0.1.5](https://github.com/aicore8/ai-doorlock/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
